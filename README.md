@@ -1,1 +1,1 @@
-![image](https://github.com/kursatsmsek/spring-boot-redis-mysql/assets/80540635/f3a4bdf5-587f-4ab7-ac2f-545557b46b3d)
+![image](https://github.com/kursatsmsek/spring-boot-redis-mysql/assets/80540635/20fc45d2-455d-42a6-921f-7e6e38d3ea4b)
